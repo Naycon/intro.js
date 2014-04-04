@@ -314,7 +314,7 @@ introJs().onafterchange(function(targetElement) {
  - `data-intro`: The tooltip text of step
  - `data-step`: Optionally define the number (priority) of step
  - `data-tooltipClass`: Optionally define a CSS class for tooltip
- - `data-position`: Optionally define the position of tooltip, `top`, `left`, `right` or `bottom`. Default is `bottom`
+ - `data-position`: Optionally define the position of tooltip, `top`, `left`, `right`, `bottom`, `bottom-left-aligned` (same as 'bottom'), 'bottom-middle-aligned' and 'bottom-right-aligned'. Default is `bottom`
 
 ###Options:
 
